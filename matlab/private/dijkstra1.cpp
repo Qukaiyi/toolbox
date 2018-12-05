@@ -15,7 +15,7 @@
 *******************************************************************************/
 #if (_MSC_VER >= 1600)
 #define __STDC_UTF_16__
-typedef unsigned short char16_t;
+//typedef unsigned short char16_t;
 #endif
 
 #include "mex.h"
